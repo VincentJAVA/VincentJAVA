@@ -16,5 +16,6 @@ A tecnologia sempre foi uma paixão para mim. Desde cedo, admirei a forma como s
 ### INFORMAÇÕES PARA CONTATO
 <br/>
 ### Número de telefone: (81) 98725-2740
+  <br/>
 ### E-mail: vinnyvictor081@gmail.com
 
