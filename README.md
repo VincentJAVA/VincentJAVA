@@ -14,8 +14,6 @@ A tecnologia sempre foi uma paixão para mim. Desde cedo, admirei a forma como s
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <br/>
 ### INFORMAÇÕES PARA CONTATO
-<br/>
-  
 ### Número de telefone: (81) 98725-2740
 ### E-mail: vinnyvictor081@gmail.com
 
